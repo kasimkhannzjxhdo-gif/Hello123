@@ -1,1 +1,0 @@
-pip install pyTelegramBotAPI requests Flask qrcode Pillow
